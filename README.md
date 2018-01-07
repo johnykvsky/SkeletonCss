@@ -2,7 +2,7 @@
 
 Features:
 
-- Separated grid from them
+- Separated grid from theme
 - Updated grid and theme for modern browsers
 - Added 16 columns fluid container
 
